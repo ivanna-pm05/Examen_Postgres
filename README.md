@@ -1,4 +1,4 @@
-*🏪 Gestión de Inventario para una Tienda de Tecnología*
+# 🏪 Gestión de Inventario para una Tienda de Tecnología
 
 ## 🖼️ Modelo Entidad-Relación
 
@@ -44,3 +44,7 @@ El nuevo sistema deberá cumplir con las siguientes funcionalidades:
 	5️⃣ Consultas avanzadas: Se requiere la capacidad de analizar datos clave como productos más vendidos, ingresos por proveedor y clientes más frecuentes.
 
 	6️⃣ Procedimiento almacenado con transacciones: Para asegurar que no se vendan productos sin stock, el sistema debe validar la disponibilidad de inventario antes de completar una venta.
+
+## Autores 
+- Juliana Pallares
+- Ivanna Paternina
